@@ -1,0 +1,44 @@
+{
+    "stations":[
+        {
+            "name":"0",
+            "forwardConnections":["1"] 
+        },
+        {
+            "name":"1",
+            "forwardConnections":["2", "4"]
+        },
+        {
+            "name":"2",
+            "forwardConnections":["3"] 
+        },
+        {
+            "name":"3",
+            "forwardConnections":["4"]
+        },
+        {
+            "name":"4",
+            "forwardConnections":["5"] 
+        },
+        {
+            "name":"5",
+            "forwardConnections":["8", "6"]
+        },
+	{
+            "name":"6",
+            "forwardConnections":["7"]
+        },
+	{
+            "name":"7",
+            "forwardConnections":["8"]
+        },
+	{
+            "name":"8",
+            "forwardConnections":["9"]
+        },
+	{
+            "name":"9",
+            "forwardConnections":[]
+        }
+    ]
+}

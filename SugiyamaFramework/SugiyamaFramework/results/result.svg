@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="TamaraIlic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><polyline points = "50,50
+                        110,120" style="fill:none; stroke:black;stroke-width:3"/> <polyline points = "110,120
+                        170,190" style="fill:none; stroke:black;stroke-width:3"/> <polyline points = "110,120
+                        110,190" style="fill:none; stroke:black;stroke-width:3"/> <polyline points = "110,190
+                        110,260" style="fill:none; stroke:black;stroke-width:3"/> <polyline points = "110,260
+                        290,330" style="fill:none; stroke:black;stroke-width:3"/> <polyline points = "170,190
+                        230,260" style="fill:none; stroke:black;stroke-width:3"/> <polyline points = "230,260
+                        290,330" style="fill:none; stroke:black;stroke-width:3"/> <polyline points = "290,330
+                        350,400" style="fill:none; stroke:black;stroke-width:3"/> <polyline points = "350,400
+                        410,470" style="fill:none; stroke:black;stroke-width:3"/> <polyline points = "350,400
+                        350,470" style="fill:none; stroke:black;stroke-width:3"/> <polyline points = "350,470
+                        350,540" style="fill:none; stroke:black;stroke-width:3"/> <polyline points = "350,540
+                        530,610" style="fill:none; stroke:black;stroke-width:3"/> <polyline points = "410,470
+                        470,540" style="fill:none; stroke:black;stroke-width:3"/> <polyline points = "470,540
+                        530,610" style="fill:none; stroke:black;stroke-width:3"/> <polyline points = "530,610
+                        590,680" style="fill:none; stroke:black;stroke-width:3"/> <g>
+                                            <circle cx="50" cy="50" r="20" stroke="green" stroke-width="4" fill="yellow"/>
+                                            <text x="45" y="55" fill="#000000">0</text>
+                                        </g><g>
+                                            <circle cx="110" cy="120" r="20" stroke="green" stroke-width="4" fill="yellow"/>
+                                            <text x="105" y="125" fill="#000000">1</text>
+                                        </g><g>
+                                            <circle cx="170" cy="190" r="20" stroke="green" stroke-width="4" fill="yellow"/>
+                                            <text x="165" y="195" fill="#000000">2</text>
+                                        </g><g>
+                                            <circle cx="230" cy="260" r="20" stroke="green" stroke-width="4" fill="yellow"/>
+                                            <text x="225" y="265" fill="#000000">3</text>
+                                        </g><g>
+                                            <circle cx="290" cy="330" r="20" stroke="green" stroke-width="4" fill="yellow"/>
+                                            <text x="285" y="335" fill="#000000">4</text>
+                                        </g><g>
+                                            <circle cx="350" cy="400" r="20" stroke="green" stroke-width="4" fill="yellow"/>
+                                            <text x="345" y="405" fill="#000000">5</text>
+                                        </g><g>
+                                            <circle cx="410" cy="470" r="20" stroke="green" stroke-width="4" fill="yellow"/>
+                                            <text x="405" y="475" fill="#000000">6</text>
+                                        </g><g>
+                                            <circle cx="470" cy="540" r="20" stroke="green" stroke-width="4" fill="yellow"/>
+                                            <text x="465" y="545" fill="#000000">7</text>
+                                        </g><g>
+                                            <circle cx="530" cy="610" r="20" stroke="green" stroke-width="4" fill="yellow"/>
+                                            <text x="525" y="615" fill="#000000">8</text>
+                                        </g><g>
+                                            <circle cx="590" cy="680" r="20" stroke="green" stroke-width="4" fill="yellow"/>
+                                            <text x="585" y="685" fill="#000000">9</text>
+                                        </g></svg>

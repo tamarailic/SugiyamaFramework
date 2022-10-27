@@ -1,0 +1,10 @@
+D:\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\bin\Debug\SugiyamaFramework.exe.config
+D:\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\bin\Debug\SugiyamaFramework.exe
+D:\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\bin\Debug\SugiyamaFramework.pdb
+D:\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\obj\Debug\SugiyamaFramework.csproj.AssemblyReference.cache
+D:\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\obj\Debug\SugiyamaFramework.csproj.CoreCompileInputs.cache
+D:\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\obj\Debug\SugiyamaFramework.exe
+D:\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\obj\Debug\SugiyamaFramework.pdb
+D:\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\bin\Debug\Newtonsoft.Json.dll
+D:\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\bin\Debug\Newtonsoft.Json.xml
+D:\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\SugiyamaFramework\obj\Debug\SugiyamaFramework.csproj.CopyComplete

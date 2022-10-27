@@ -1,0 +1,36 @@
+{
+    "stations":[
+        {
+            "name":"0",
+            "forwardConnections":["1"] 
+        },
+        {
+            "name":"1",
+            "forwardConnections":["2", "3", "4"]
+        },
+        {
+            "name":"2",
+            "forwardConnections":["5"] 
+        },
+        {
+            "name":"3",
+            "forwardConnections":["6", "7"]
+        },
+        {
+            "name":"4",
+            "forwardConnections":[] 
+        },
+        {
+            "name":"5",
+            "forwardConnections":[]
+        },
+	{
+            "name":"6",
+            "forwardConnections":[]
+        },
+	{
+            "name":"7",
+            "forwardConnections":[]
+        }
+	]
+}
